@@ -1,0 +1,14 @@
+
+{
+  "name": "roblox-unit-api",
+  "version": "1.0.0",
+  "description": "API penghubung Roblox Lobby dan Match",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
